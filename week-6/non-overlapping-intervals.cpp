@@ -11,7 +11,6 @@ class Solution {
         (*i)[1] = (*(i - 1))[1];
       }
     }
-    cout << endl;
     return ans;
   }
 };
